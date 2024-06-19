@@ -1,2 +1,1 @@
-# javascriptmay8
-# This is the work I completed during the 8st of May lesson on JS Functions & Control Flow Practical
+This is the practical intro to JS task i worked on during the class, where I wrote a basic function to take a drinks order from a user
